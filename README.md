@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-## Scaffoldddd
+## Scaffold
 > This project was scaffolded by React CLI [(create-react-app)](https://github.com/facebookincubator/create-react-app)
  We chose to use the React CLI because of its agility and logistics. A big advantage is that at the smallest change in  the code, the website updates in real time so you do not need to refresh the website continuously.
 
@@ -19,7 +19,7 @@ npm start
 > We also created a repo on Github. This makes it much easier for the group while we are working on the project. Some of us has also been using GitKraken witch is a git GUI that makes the hole GIT process faster.
 
 ## Develop
-> The code is written in React with the text editors Visual Code and Atom. 
+> The code is written in React with the text editors Visual Code and Atom.
 The API call was made with react's fetch, which is the most convenient way to do it according to us, no installation needed as with axios.  
 
 ## Test
@@ -36,7 +36,7 @@ npm test
 > [Webpack](https://github.com/webpack/webpack) is a build tool that bundles all of your assets, including Javascript, images, fonts, and CSS. Webpack was included when we where scaffolding our react application. This makes it easier to manage "modules" which can be used for minifying, testing and more... <i>Note that Webpack is not a task runner but can solve the same problems as as Gulp and Grunt solves. </i>
 
 ## Deploy
-> The project is deployed on Github pages. 
+> The project is deployed on Github pages.
 
 
 ## Software
