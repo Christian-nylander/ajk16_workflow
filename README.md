@@ -1,7 +1,6 @@
-# Workflow
-> Maja and Christian, AJK16 Jensen Education
+# Workflow, AJK16
 
-[(Homepage)](https://christian-nylander.github.io/ajk16_workflow/)
+> [(Homepage)](https://christian-nylander.github.io/ajk16_workflow/)
 In this course we will describe how an effective workflow looks like. We will show you step by step what we use for methods and why we chose a bunch of different techniques. The application we have built is a simple search engine for finding pictures via Pixabay.
 
 ## Installation
@@ -44,3 +43,6 @@ npm test
 ## Software
 ```sh
 ```
+
+### Developers
+> Maja and Christian, 2017
