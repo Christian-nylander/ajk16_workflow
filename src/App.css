@@ -51,12 +51,8 @@ form{
 }
 
 .git-btn {
-  display: flex;
-  justify-content: center;
-  font-size: 30px;
-  text-decoration: none;
-  color: limegreen;
-  margin-top: 20px;
+
+
 }
 
 #notFound {
@@ -64,4 +60,15 @@ form{
   display: flex;
   justify-content: center;
   visibility: hidden;
+}
+
+.git-icon {
+  border: 0;
+  width: 60px;
+  margin-top: 50px;
+  margin-left: 47%;
+}
+
+.git-icon:hover {
+  cursor: pointer;
 }
