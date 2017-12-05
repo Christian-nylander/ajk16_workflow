@@ -37,7 +37,7 @@ npm test
 > Fyll i om integrering
 
 ## Optimize
-> [Webpack](https://github.com/webpack/webpack) is a build tool that bundles all of your assets, including Javascript, images, fonts, and CSS. Webpack was included when we where scaffolding our react application. This makes it easier to manage "modules" which can be used for minifying, testing and more... <i>Note that Webpack is not a task runner but can solve the same problems as as Gulp and Grunt solves. </i>
+> gh-pages
 
 ## Deploy
 > The project is deployed on Github pages. We had some trouble deploying the website with github pages due to react cli. But we succeeded with a lot of help from [(this tutorial.)](https://www.youtube.com/watch?v=7yA7BGos2KQ)
