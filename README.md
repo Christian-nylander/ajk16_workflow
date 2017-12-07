@@ -23,6 +23,7 @@ npm start
 > The code is written in React with the text editors Visual Code and Atom.
 The API call was made with react's fetch, which is the most convenient way to do it according to us, no installation needed as with axios.  
 
+
 ## Test
 > The tests are done with Jest, a testing framework maintained by Facebook.
 ```sh
@@ -30,22 +31,22 @@ npm test
 ```
 > The console should show that the tests succeeded.
 
+
 ## Task
 > The tasks was made with Gulp. There are 6 tasks, two for cleaning the project from unnecessary html and JavaScript files, one for copying the html files from the source code folder to the app folder that will be the one in production. There are also two tasks for the css/scss. One that autoprefixes the css and one that converts the css to scss to the app folder. And finally the default that does every task.
 
+
 ## Integrate
-> Fyll i om integrering
+> We have integrated our project with github. The whole project and went well and smoothly but we had some problems deploying it with github pages
+
 
 ## Optimize
-> gh-pages
+> We have used a tool called gh-pages that could easily be installed via NPM. What it does is that it bundles the entire project so that you can deploy it on github pages. It minifies all files in the project and deletes unnecessary folders.
+
 
 ## Deploy
 > The project is deployed on Github pages. We had some trouble deploying the website with github pages due to react cli. But we succeeded with a lot of help from [(this tutorial.)](https://www.youtube.com/watch?v=7yA7BGos2KQ)
 
 
-## Software
-```sh
-```
-
 ### Developers
-> Maja and Christian, 2017
+> Maja & Christian, 2017
