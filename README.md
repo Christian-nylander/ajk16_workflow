@@ -50,6 +50,6 @@ npm test
 
 
 ### Developers
-> Maja & Christian [(Linked In)](https://www.linkedin.com/in/christian-nylander-70082812a/), 2017
+> [Christian](https://www.linkedin.com/in/christian-nylander-70082812a/) & [Maja](https://www.linkedin.com/in/majagedda/), 2017
 
 
