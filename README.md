@@ -49,6 +49,16 @@ npm test
 > The project is deployed on Github pages. We had some trouble deploying the website with github pages due to react cli. But we succeeded with a lot of help from [(this tutorial.)](https://www.youtube.com/watch?v=7yA7BGos2KQ)
 
 
+## Summary
+> Overall, this project has benn fun and educational. We have learned a lot about how a workflow works, from its beginning to the end. We learned, among other things, that Reaction CLI was not easy to imply on Github pages and you should always install SASS in the startup of a project otherwise it can be difficult to get working. Both of these problems got resolved after a lot of documentation reading. 
+
+Next time we will think twice while deciding a Scaffolding-tool. React CLI did much good, but we had a couple of problems with it aswell.
+
+
+
+
+
+
 ### Developers
 > [Christian](https://www.linkedin.com/in/christian-nylander-70082812a/) & [Maja](https://www.linkedin.com/in/majagedda/), 2017
 
