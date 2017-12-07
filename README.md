@@ -52,7 +52,7 @@ npm test
 ## Summary
 > Overall, this project has benn fun and educational. We have learned a lot about how a workflow works, from its beginning to the end. We learned, among other things, that Reaction CLI was not easy to imply on Github pages and you should always install SASS in the startup of a project otherwise it can be difficult to get working. Both of these problems got resolved after a lot of documentation reading. 
 
-Next time we will think twice while deciding a Scaffolding-tool. React CLI did much good, but we had a couple of problems with it aswell.
+> Next time we will think twice while deciding a Scaffolding-tool. React CLI did much good, but we had a couple of problems with it aswell.
 
 
 
