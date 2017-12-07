@@ -37,7 +37,8 @@ npm test
 
 
 ## Integrate
-> We have integrated our project with github. The whole project and went well and smoothly but we had some problems deploying it with github pages
+> We have integrated our project with github. The whole project went well and smoothly but we had some problems deploying it with github pages. Sometimes we got conflicts when we merged to the master, but it resolved with the help of atom.io built-in conflict manager witch shows the conflict and how to solve it.
+
 
 
 ## Optimize
